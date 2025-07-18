@@ -3,8 +3,11 @@
 A responsive and sleek dashboard interface built using **Next.js 14 (App Router)**, inspired by the official [Next.js Learn Dashboard Course](https://nextjs.org/learn/dashboard-app).
 
 Live Demo 👉 [View on Vercel](https://nextjs-dashboard-eight-flax-79.vercel.app)
+
 Demo Username : user@nextmail.com
+
 Demo Password : 123456
+
 ---
 
 ## 📌 Overview
